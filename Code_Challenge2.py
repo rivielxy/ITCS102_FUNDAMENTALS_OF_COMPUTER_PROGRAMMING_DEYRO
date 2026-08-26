@@ -34,7 +34,7 @@ print("Twenty Pesos: ", dt)
 dtn = money // 10
 money = money - (dtn * 10)
 print("Ten Pesos: ", dtn)
-df = money // 5
+dfv = money // 5
 money = money - (dfv * 5)
 print("Five Pesos: ", dfv)
 do = money // 1
