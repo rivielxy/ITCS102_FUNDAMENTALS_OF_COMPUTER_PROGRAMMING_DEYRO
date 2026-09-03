@@ -1,6 +1,6 @@
 # Code Challenge 2
 
-money = 12923
+money = eval(input(amount))
 dot = 0
 dfh = 0
 dth = 0
