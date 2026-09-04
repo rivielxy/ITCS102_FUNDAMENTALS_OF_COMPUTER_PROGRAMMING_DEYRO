@@ -1,5 +1,9 @@
-# Activity 6
+# input()
 
-print("What is your name?")
-name = input()
-print("Hello ", name)
+number = (eval(input("Enter a number: ---->")))
+
+print(type(number))
+
+total = number + 10
+
+print("Total = ", total)
